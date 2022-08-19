@@ -17,7 +17,7 @@ export default function QNA()
                         <button className="w-full border-b-2 border-gray-300 pb-6 text-left group focus:outline-none">
                             <div className="text-lg font-semibold">Q: How to Meditate ?</div>
                             <div className="mt-3 hidden text-gray-700 group-focus:flex text-justify">
-                                <p>Guru(ts) is blessed with the power for shaktipat which awakens the kundalini Shakti of the spiritual aspirant. Guru gives Shaktipat Diksha through a divine word (Mantra). It includes two things to be done by any seeker ‘Mantra’ chanting and ‘Meditation’.Sit in a comfortable position facing any direction.You can sit cross legged on the floor or on a chair or lie down in case unable to sit.Look at Guru's image for a minute.Then close your eyes and try to see Guru's image at the centre of your forehead and silently pray to Guru's to help you meditate for 15-30 minutes. Mentally chant the mantra given by Guru ( without moving your lips and tongue ) while meditating. During this period, if you undergo any type of yogic exercises ,do not panic.Let it happen. Do not try to stop them.These yogic postures are a part of your inner cleansing.These will stop once the requested time period of meditation is over. Meditate in this way for 15 minutes in the morning and evening with an empty stomach.</p>
+                                <p>Guru ts is blessed with the power for shaktipat which awakens the kundalini Shakti of the spiritual aspirant. Guru gives Shaktipat Diksha through a divine word (Mantra). It includes two things to be done by any seeker Mantra chanting and Meditation.Sit in a comfortable position facing any direction.You can sit cross legged on the floor or on a chair or lie down in case unable to sit.Look at Guru s image for a minute.Then close your eyes and try to see Guru s image at the centre of your forehead and silently pray to Guru s to help you meditate for 15-30 minutes. Mentally chant the mantra given by Guru ( without moving your lips and tongue ) while meditating. During this period, if you undergo any type of yogic exercises ,do not panic.Let it happen. Do not try to stop them.These yogic postures are a part of your inner cleansing.These will stop once the requested time period of meditation is over. Meditate in this way for 15 minutes in the morning and evening with an empty stomach.</p>
                             </div>
                         </button>
                         <button className="w-full border-b-2 border-gray-300 pb-6 text-left group mt-6 focus:outline-none">
@@ -29,7 +29,7 @@ export default function QNA()
                         <button className="w-full border-b-2 border-gray-300 pb-6 text-left group mt-6 focus:outline-none">
                             <div className="text-lg font-semibold text-justify">Q: What should I keep in mind while meditating?</div>
                             <div className="mt-3 hidden text-gray-700 group-focus:flex text-justify">
-                                <p>Only two things: Concentrate on Guru's image and silenty chant The Mantra or any other divine word if you are not initiated.</p>
+                                <p>Only two things: Concentrate on Guru s image and silenty chant The Mantra or any other divine word if you are not initiated.</p>
                             </div>
                         </button>
 

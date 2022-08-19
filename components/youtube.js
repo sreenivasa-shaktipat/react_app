@@ -3,7 +3,8 @@ export default function youtube()
 {
     return(
         <div>
-                      <a href='https://www.youtube.com/channel/UCpBJzu-Z0og-ZOdE1i5o1Fg' target="_blank">          
+        
+        <a href='https://www.youtube.com/channel/UCpBJzu-Z0og-ZOdE1i5o1Fg' rel="noreferrer" target="_blank">          
             
 
 
@@ -12,7 +13,7 @@ export default function youtube()
 
 
 
-            <svg viewBox="0 0 200 60" preserveAspectRatio="xMidYMid meet" focusable="false" class="w-24 h-10 ml-5">
+            <svg viewBox="0 0 200 60" preserveAspectRatio="xMidYMid meet" focusable="false" className="w-24 h-10 ml-5">
             <g viewBox="0 0 200 60" preserveAspectRatio="xMidYMid meet">
                 <g>
                     <path
