@@ -37,10 +37,18 @@ export default function ImageGrid()
                         <br/>
                         <br/>
                         <b><h2>SAHAJANANDA TIRTHA</h2></b> 100 Years Birthday
+						<br/><br/>
+						<a target="_blank" className='underline hover:no-underline text-blue-600 hover:text-blue-800 visited:text-purple-600' href="https://drive.google.com/drive/folders/1uA1Zx-KLC7UBMI2bkaua24r-8FYYnDU9?usp=sharing">Images Drive Link</a>
+						<br/>
+						<a target="_blank" className='underline hover:no-underline text-blue-600 hover:text-blue-800 visited:text-purple-600' href="https://drive.google.com/drive/folders/1OKKN6dkrlla7n3ale3YwosJ2er8AUBS0?usp=sharing">Images Drive Link</a>
+						<br/>
+						<a target="_blank" className='underline hover:no-underline text-blue-600 hover:text-blue-800 visited:text-purple-600' href="https://drive.google.com/drive/folders/1QPlae4ZD1YoagCa6RGmTYrnbIVX72JTp?usp=sharing">Images Drive Link</a>
+                    
                     </div>
-                    <div className="container px-5 py-2 mx-auto lg:pt-24 lg:px-32">
+				
+					
+					<div className="container px-5 py-2 mx-auto lg:pt-24 lg:px-32">
                         <div className="flex flex-wrap -m-1 md:-m-2">
-                            
                         <div className="flex flex-wrap w-1/2">
                             
                             <div className="w-1/2 p-1 md:p-2">
@@ -140,6 +148,10 @@ export default function ImageGrid()
                             </div>  <div className="w-1/2 p-1 md:p-2">
                             <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
                                 src={_26} />
+                            </div>
+							<div className="w-1/2 p-1 md:p-2">
+                            <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
+                                src={_7} />
                             </div>
                             <div className="w-1/2 p-1 md:p-2">
                             <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
